@@ -1,1 +1,2 @@
-# hello_word
+# hello_world
+this is my first gethub project
